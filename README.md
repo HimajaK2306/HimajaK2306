@@ -3,14 +3,11 @@
 
 **HimajaK2306/HimajaK2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on GitHub
 - 🌱 I’m currently learning web apps
 - 👯 I’m looking to collaborate with web developer
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 I'm currently pursuing masters in NWMSU
+- 📫 Reach me : himajakaishetty1@gmail.com
+- 😄 Pronouns: she/her
+
 
